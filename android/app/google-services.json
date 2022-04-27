@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767972571577",
+    "project_id": "bills-padi",
+    "storage_bucket": "bills-padi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767972571577:android:13396096775f195dccde68",
+        "android_client_info": {
+          "package_name": "com.vision.bills_padi_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767972571577-ud28gssjupnv1vd2f2svqiarih10ould.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5vspe-ZGT_vKOaIIR73t8w29Whem8G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767972571577-ud28gssjupnv1vd2f2svqiarih10ould.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
